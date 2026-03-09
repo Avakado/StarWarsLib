@@ -1,0 +1,1 @@
+import{q as t,z as a}from"./chunk-5HF3J3XF.js";var c=class e{searchTerm=a("");search(r){this.searchTerm.set(r)}clear(){this.searchTerm.set("")}static \u0275fac=function(s){return new(s||e)};static \u0275prov=t({token:e,factory:e.\u0275fac,providedIn:"root"})};export{c as a};
